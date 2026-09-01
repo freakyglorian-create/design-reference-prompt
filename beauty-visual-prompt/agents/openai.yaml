@@ -1,0 +1,6 @@
+interface:
+  display_name: "颜值参考图提示词"
+  short_description: "从美妆人像参考图提取可复用视觉提示词"
+  default_prompt: "Use $beauty-visual-prompt to analyze the attached beauty reference image and produce a structured image-generation prompt."
+policy:
+  allow_implicit_invocation: true

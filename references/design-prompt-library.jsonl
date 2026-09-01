@@ -1,0 +1,64 @@
+{"id":"layout_grid_01","category":"layout","zh":"模块化网格、清晰对齐、严格边界","en":"modular grid, precise alignment, disciplined boundaries","use":"适合品牌海报、编辑设计、信息型 KV"}
+{"id":"layout_grid_02","category":"layout","zh":"非对称网格、偏置重心、动态阅读路径","en":"asymmetric grid, offset visual weight, dynamic reading path","use":"适合实验海报、潮流视觉"}
+{"id":"layout_grid_03","category":"layout","zh":"大面积负空间、稀疏布局、克制留白","en":"generous negative space, sparse layout, restrained whitespace","use":"适合高端、极简、生活方式视觉"}
+{"id":"layout_grid_04","category":"layout","zh":"满版构图、边缘裁切、强烈视觉占幅","en":"full-bleed composition, edge cropping, dominant visual coverage","use":"适合广告 KV、社媒封面、音乐视觉"}
+{"id":"layout_grid_05","category":"layout","zh":"中心对称、轴线稳定、仪式感构图","en":"central symmetry, stable axis, ceremonial composition","use":"适合香水、珠宝、典藏和发布视觉"}
+{"id":"layout_grid_06","category":"layout","zh":"拼贴式分栏、图文模块叠加、节奏化分区","en":"collage columns, layered image-text modules, rhythmic zoning","use":"适合杂志、文化活动、街头风格"}
+{"id":"composition_01","category":"composition","zh":"单一视觉焦点、层级明确、视线先看主体再看文案","en":"single focal point, clear hierarchy, subject-first reading order","use":"适合产品广告和转化型海报"}
+{"id":"composition_02","category":"composition","zh":"对角线动势、斜向切割、具有速度感","en":"diagonal momentum, angled divisions, sense of speed","use":"适合运动、科技、潮流和活动海报"}
+{"id":"composition_03","category":"composition","zh":"叠压关系、前后景层次、局部遮挡","en":"overlapping elements, foreground-background depth, selective occlusion","use":"适合艺术指导、拼贴和实验视觉"}
+{"id":"composition_04","category":"composition","zh":"局部特写、紧密裁切、强调材质与细节","en":"tight close-up, intimate crop, emphasis on material and detail","use":"适合美妆、食品、珠宝和产品质感图"}
+{"id":"composition_05","category":"composition","zh":"漂浮主体、悬置空间、轻盈的视觉重力","en":"floating subject, suspended space, light visual gravity","use":"适合护肤、香氛、未来感产品"}
+{"id":"composition_06","category":"composition","zh":"留出可编辑文案区、主体偏置、商业落地友好","en":"reserved copy area, offset subject, commercial-ready composition","use":"适合广告投放、社媒和电商素材"}
+{"id":"type_01","category":"typography","zh":"高对比现代衬线体、优雅细长字形、时尚编辑感","en":"high-contrast modern serif, elegant narrow letterforms, fashion editorial tone","use":"适合美妆、香水、高端生活方式"}
+{"id":"type_02","category":"typography","zh":"中性无衬线体、清晰字重层级、理性现代","en":"neutral sans serif, clear weight hierarchy, rational modernism","use":"适合科技、品牌系统、信息型设计"}
+{"id":"type_03","category":"typography","zh":"粗黑展示字、紧密字距、强冲击标题","en":"bold display type, tight tracking, high-impact headline","use":"适合潮流、音乐、活动和街头海报"}
+{"id":"type_04","category":"typography","zh":"等宽字体、技术注释、数据化排版","en":"monospaced type, technical annotations, data-driven typography","use":"适合科技、实验、档案和数字文化"}
+{"id":"type_05","category":"typography","zh":"竖排文字、旋转文字、方向性阅读节奏","en":"vertical type, rotated type, directional reading rhythm","use":"适合亚洲设计、编辑设计、实验海报"}
+{"id":"type_06","category":"typography","zh":"超大标题、局部出框、文字作为图形主体","en":"oversized headline, partial bleed, type treated as graphic form","use":"适合广告 KV、时尚、文化海报"}
+{"id":"color_01","category":"color","zh":"低饱和中性色、米白与暖灰、柔和高级","en":"desaturated neutrals, off-white and warm gray, understated premium palette","use":"适合护肤、家居、生活方式"}
+{"id":"color_02","category":"color","zh":"高饱和撞色、互补色对比、年轻活跃","en":"high-saturation color clash, complementary contrast, youthful energy","use":"适合潮流、社媒、活动和音乐视觉"}
+{"id":"color_03","category":"color","zh":"单色系统、明度递进、统一而克制","en":"monochromatic system, graduated values, unified restraint","use":"适合品牌海报、产品系列和包装"}
+{"id":"color_04","category":"color","zh":"荧光强调色、深色底、数字屏幕感","en":"fluorescent accent, dark ground, digital-screen sensibility","use":"适合科技、夜生活、年轻品牌"}
+{"id":"color_05","category":"color","zh":"复古印刷色、偏黄黑、有限色版","en":"retro print colors, yellowed blacks, limited color separation","use":"适合复古、文化、出版和胶片视觉"}
+{"id":"color_06","category":"color","zh":"冷暖对撞、局部暖光、戏剧性情绪","en":"warm-cool tension, localized warm light, dramatic mood","use":"适合电影感广告和人物 KV"}
+{"id":"image_treatment_01","category":"image-treatment","zh":"高光柔化、轻微胶片颗粒、自然肤质保留","en":"softened highlights, subtle film grain, preserved natural texture","use":"适合人像、美妆、生活方式摄影"}
+{"id":"image_treatment_02","category":"image-treatment","zh":"半色调网点、印刷错位、复古扫描质感","en":"halftone dots, print misregistration, vintage scan texture","use":"适合海报、音乐、出版和街头视觉"}
+{"id":"image_treatment_03","category":"image-treatment","zh":"硬边抠图、平面阴影、商品目录感","en":"hard-edged cutout, flat shadow, catalog-like product treatment","use":"适合电商、包装、产品海报"}
+{"id":"image_treatment_04","category":"image-treatment","zh":"透明叠图、双重曝光、层层透视","en":"transparent overlays, double exposure, layered translucency","use":"适合艺术、香氛、科技和概念视觉"}
+{"id":"image_treatment_05","category":"image-treatment","zh":"色偏、通道分离、轻微数字故障","en":"chromatic shift, channel separation, subtle digital glitch","use":"适合数字文化、实验海报和音乐视觉"}
+{"id":"image_treatment_06","category":"image-treatment","zh":"局部锐利与大面积柔焦并置、焦点控制","en":"selective sharpness against broad softness, controlled focus","use":"适合美妆、时尚和艺术指导"}
+{"id":"graphic_language_01","category":"graphics","zh":"细线框、标签系统、编号和索引感","en":"fine-line frames, label system, numbering and indexing","use":"适合编辑、档案、产品系列"}
+{"id":"graphic_language_02","category":"graphics","zh":"几何色块、圆形与矩形模块、现代主义构成","en":"geometric color blocks, circular and rectangular modules, modernist construction","use":"适合品牌、海报和社媒模板"}
+{"id":"graphic_language_03","category":"graphics","zh":"手写标记、涂鸦线条、非正式人工痕迹","en":"handwritten marks, doodle lines, informal human traces","use":"适合年轻品牌、活动、文化视觉"}
+{"id":"graphic_language_04","category":"graphics","zh":"贴纸、徽章、星标、装饰性符号集合","en":"stickers, badges, starbursts, decorative symbol set","use":"适合潮流、零售、社媒和包装"}
+{"id":"graphic_language_05","category":"graphics","zh":"规则重复纹样、连续图案、品牌记忆点","en":"regular repeat pattern, continuous motif, memorable brand device","use":"适合包装、纺织、品牌延展"}
+{"id":"graphic_language_06","category":"graphics","zh":"极少装饰、纯粹形体、视觉秩序优先","en":"minimal ornament, pure forms, visual order first","use":"适合极简品牌和高端产品"}
+{"id":"material_01","category":"materials","zh":"未涂布纸张、纤维纹理、吸墨边缘","en":"uncoated paper, fibrous texture, ink-absorbing edges","use":"适合出版、文化、自然和手工品牌"}
+{"id":"material_02","category":"materials","zh":"烫金、压凹凸、局部 UV、细腻奢华工艺","en":"foil stamping, embossing, spot UV, refined luxury finishing","use":"适合香水、珠宝、酒类和高端包装"}
+{"id":"material_03","category":"materials","zh":"透明膜、亚克力、玻璃反射、层叠包装结构","en":"transparent film, acrylic, glass reflections, layered packaging structure","use":"适合美妆、科技和未来感包装"}
+{"id":"material_04","category":"materials","zh":"撕裂边、折痕、胶带、手工拼贴痕迹","en":"torn edges, creases, tape, handmade collage traces","use":"适合独立出版、音乐和青年文化"}
+{"id":"material_05","category":"materials","zh":"金属拉丝、镜面反射、冷硬工业质感","en":"brushed metal, mirror reflection, cool industrial finish","use":"适合科技、汽车、运动和未来感产品"}
+{"id":"material_06","category":"materials","zh":"柔软织物、绒面、毛绒、触感型近距离质感","en":"soft textile, suede, plush, tactile close-up materiality","use":"适合家居、时尚、美妆和生活方式"}
+{"id":"print_01","category":"print","zh":"四色套印、轻微套印偏差、真实印刷边缘","en":"four-color process, slight registration shift, authentic printed edges","use":"适合复古海报和印刷模拟"}
+{"id":"print_02","category":"print","zh":"丝网印刷、有限色板、浓郁平涂色块","en":"screen print, limited palette, rich flat color fields","use":"适合海报、艺术版画和文化视觉"}
+{"id":"print_03","category":"print","zh":"Risograph 风格、颗粒网点、叠印透明色","en":"risograph-inspired texture, grainy dots, translucent overprint","use":"适合独立出版和社媒视觉"}
+{"id":"print_04","category":"print","zh":"报纸纸张、新闻照片、粗颗粒黑白","en":"newsprint paper, press photography, coarse monochrome grain","use":"适合纪实、文化、档案和音乐视觉"}
+{"id":"brand_01","category":"brand","zh":"品牌资产系统化、统一色板、重复组件、可扩展模板","en":"systematic brand assets, unified palette, repeated components, scalable templates","use":"适合批量品牌素材和系列化设计"}
+{"id":"brand_02","category":"brand","zh":"高端克制、稀疏信息、材质驱动、低声量传播","en":"quiet luxury, sparse information, material-led, low-volume communication","use":"适合美妆、家居、香氛和精品品牌"}
+{"id":"brand_03","category":"brand","zh":"年轻社媒语言、强识别色、可截图传播、轻松语气","en":"youthful social language, signature color, screenshot-friendly, casual tone","use":"适合社媒、零售和新消费品牌"}
+{"id":"brand_04","category":"brand","zh":"文化机构感、编辑层级、理性信息架构、长期识别性","en":"cultural-institution tone, editorial hierarchy, rational information architecture, durable recognition","use":"适合展览、出版、艺术和教育项目"}
+{"id":"brand_05","category":"brand","zh":"未来实验、技术隐喻、界面化组件、冷色光感","en":"experimental futurism, technological metaphor, interface-like components, cool light","use":"适合科技、AI、数字文化"}
+{"id":"brand_06","category":"brand","zh":"自然材料、低碳感、植物色系、朴素触感","en":"natural materials, low-impact sensibility, botanical palette, honest tactility","use":"适合环保、食品、护肤和生活方式"}
+{"id":"art_direction_01","category":"art-direction","zh":"编辑大片、精确造型、留白与人物动作共同叙事","en":"editorial campaign, precise styling, whitespace and gesture-driven narrative","use":"适合时尚、美妆、品牌 KV"}
+{"id":"art_direction_02","category":"art-direction","zh":"产品英雄镜头、精确轮廓光、商业级质感","en":"hero product shot, precise rim light, commercial-grade finish","use":"适合产品广告和电商主视觉"}
+{"id":"art_direction_03","category":"art-direction","zh":"概念静物、超现实比例、戏剧化道具关系","en":"conceptual still life, surreal proportions, dramatic prop relationships","use":"适合艺术指导、香氛和创意广告"}
+{"id":"art_direction_04","category":"art-direction","zh":"纪实街拍、自然动作、非完美构图、即时感","en":"documentary street capture, natural gesture, imperfect framing, immediacy","use":"适合青年文化、社区、活动视觉"}
+{"id":"art_direction_05","category":"art-direction","zh":"展览墙面、档案材料、说明文字与作品并置","en":"gallery wall, archival materials, caption text juxtaposed with artwork","use":"适合展览、文化和出版场景"}
+{"id":"art_direction_06","category":"art-direction","zh":"数字界面与实体材质混合、屏幕光和真实阴影并存","en":"hybrid digital interface and physical material, screen glow with real shadows","use":"适合科技、AI、未来生活方式"}
+{"id":"background_01","category":"background","zh":"暖白无缝背景、柔和接触阴影、轻微空间层次","en":"warm white seamless background, soft contact shadow, subtle spatial depth","use":"适合极简产品和护肤视觉"}
+{"id":"background_02","category":"background","zh":"粗粝混凝土墙、低饱和灰调、城市工业感","en":"raw concrete wall, desaturated gray tones, urban industrial mood","use":"适合运动、街头、男装和科技"}
+{"id":"background_03","category":"background","zh":"纯色摄影棚、饱和背景、干净商业布光","en":"solid-color studio, saturated backdrop, clean commercial lighting","use":"适合社媒、电商和产品广告"}
+{"id":"background_04","category":"background","zh":"渐变色场景、柔和雾化、无具体地点的概念空间","en":"gradient environment, soft haze, location-agnostic conceptual space","use":"适合未来、护肤、科技和概念 KV"}
+{"id":"background_05","category":"background","zh":"桌面静物、纸张和道具自然散落、俯拍构图","en":"desktop still life, naturally scattered paper and props, overhead composition","use":"适合文具、食品、出版和社媒内容"}
+{"id":"background_06","category":"background","zh":"深色空间、局部聚光、背景逐渐沉入阴影","en":"dark environment, localized spotlight, background receding into shadow","use":"适合奢华、香氛、酒类和戏剧性广告"}

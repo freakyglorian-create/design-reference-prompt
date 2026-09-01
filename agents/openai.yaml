@@ -1,0 +1,6 @@
+interface:
+  display_name: "平面设计参考图提示词"
+  short_description: "从设计参考图提取专业视觉语言并生成原创提示词"
+  default_prompt: "Use $design-reference-prompt to analyze the attached graphic-design reference and create an original, production-ready image-generation prompt."
+policy:
+  allow_implicit_invocation: true
